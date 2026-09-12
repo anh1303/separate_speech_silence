@@ -1,0 +1,13 @@
+{
+  "threshold": -5.287265476808974,
+  "feature": "logMA",
+  "frame_length_ms": 20,
+  "frame_shift_ms": 10,
+  "log_epsilon": 1e-10,
+  "min_silence_duration_ms": 300.0,
+  "boundary_match_tolerance_ms": 100.0,
+  "speech_is_above_threshold": true,
+  "training_data": "./TinHieuHuanLuyen",
+  "threshold_method": "binary_search",
+  "noise_condition": "original"
+}

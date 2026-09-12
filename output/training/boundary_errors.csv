@@ -1,0 +1,9 @@
+﻿filename,status,pred_s,gt_s,error_ms
+phone_F1,unmatched_gt,,0.53,
+phone_F1,unmatched_gt,,2.75,
+phone_M1,matched,0.46499999999999997,0.46,4.9999999999999485
+phone_M1,matched,3.535,3.52,15.000000000000124
+studio_F1,matched,0.675,0.68,5.000000000000004
+studio_F1,matched,2.1550000000000002,2.15,5.0000000000003375
+studio_M1,matched,0.885,0.87,15.000000000000014
+studio_M1,matched,2.0549999999999997,2.06,5.0000000000003375

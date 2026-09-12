@@ -1,0 +1,5 @@
+﻿filename,threshold,precision,recall,f1,mae_ms,rmse_ms,n_pred_boundaries,n_gt_boundaries,n_matched,figure_path
+phone_F1,-5.287265476808974,0.0,0.0,0.0,,,0,2,0,./output/test/figures/phone_F1_test_figure.png
+phone_M1,-5.287265476808974,1.0,1.0,1.0,10.000000000000036,11.18033988749902,2,2,2,./output/test/figures/phone_M1_test_figure.png
+studio_F1,-5.287265476808974,1.0,1.0,1.0,5.0000000000001705,5.000000000000171,2,2,2,./output/test/figures/studio_F1_test_figure.png
+studio_M1,-5.287265476808974,1.0,1.0,1.0,10.000000000000176,11.180339887499034,2,2,2,./output/test/figures/studio_M1_test_figure.png

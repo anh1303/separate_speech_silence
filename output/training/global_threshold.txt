@@ -1,0 +1,5 @@
+Feature      : logMA
+Frame length : 20 ms
+Frame shift  : 10 ms
+Min silence  : 300.0 ms
+Threshold T  : -5.2872654768

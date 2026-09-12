@@ -1,0 +1,5 @@
+﻿filename,speech_frames,silence_frames,global_threshold,mae_ms,rmse_ms,precision,recall,f1,n_pred_boundaries,n_gt_boundaries,n_matched,n_unmatched_pred,n_unmatched_gt
+phone_F1,222,100,-5.287265476808974,,,0.0,0.0,0.0,0,2,0,0,2
+phone_M1,306,108,-5.287265476808974,10.000000000000036,11.18033988749902,1.0,1.0,1.0,2,2,2,0,0
+studio_F1,147,138,-5.287265476808974,5.0000000000001705,5.000000000000171,1.0,1.0,1.0,2,2,2,0,0
+studio_M1,119,153,-5.287265476808974,10.000000000000176,11.180339887499034,1.0,1.0,1.0,2,2,2,0,0
