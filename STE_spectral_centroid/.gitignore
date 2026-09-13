@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+data/TinHieuHuanLuyen/*.wav
+data/TinHieuHuanLuyen/*.lab
+data/TinHieuKiemThu/*.wav
+data/TinHieuKiemThu/*.lab
+output/*.png
+output/*.pdf
+.DS_Store
